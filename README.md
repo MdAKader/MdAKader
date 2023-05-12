@@ -3,3 +3,5 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 - 🔭 I’m currently working on WordPress.
 - 🌱 I’m currently learning ReactJS
 
+
+![](https://komarev.com/ghpvc/?username=mdakader&color=blue)
