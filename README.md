@@ -17,8 +17,8 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
-<!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![HPLaptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) -->
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HPLaptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 
 
 
@@ -31,12 +31,10 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 <!-- ![visitors](https://komarev.com/ghpvc/?username=mdakader&color=blue) -->
 
 
-<!-- 
+<!-- [![Md Abdul Kader's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdakader)](https://github.com/mdakader/github-readme-stats) -->
 
-[![Md Abdul Kader's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdakader)](https://github.com/mdakader/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakader&hide_progress=true)](https://github.com/mdakader/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakader&hide_progress=true)](https://github.com/mdakader/github-readme-stats)
- -->
 
 
 
