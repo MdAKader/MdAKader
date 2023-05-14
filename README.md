@@ -24,7 +24,9 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 </div>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=mdakader&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=mdakader&color=blue)
+
+
 <!-- 
 
 [![Md Abdul Kader's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdakader)](https://github.com/mdakader/github-readme-stats)
