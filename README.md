@@ -3,8 +3,6 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 - 🔭 I’m currently working on WordPress.
 - 🌱 I’m currently learning ReactJS
 
-
-
 <!-- <div id="skills-badges">
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HPLaptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
