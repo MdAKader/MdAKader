@@ -8,6 +8,7 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 <!-- <div id="skills-badges">
     <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
     <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </div> -->
 
 
