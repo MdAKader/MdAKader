@@ -3,6 +3,14 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 - 🔭 I’m currently working on WordPress.
 - 🌱 I’m currently learning ReactJS
 
+
+
+<!-- <div id="skills-badges">
+    <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+</div> -->
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/mdakader/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
