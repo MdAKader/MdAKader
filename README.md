@@ -3,6 +3,18 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 - 🔭 I’m currently working on WordPress.
 - 🌱 I’m currently learning ReactJS
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mdakader/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/mdakader">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://profiles.wordpress.org/babuwpd/">
+    <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+  </a>
+</div>
+
 <!-- 
 
 [![Md Abdul Kader's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdakader)](https://github.com/mdakader/github-readme-stats)
