@@ -12,13 +12,13 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/mdakader/" target="_blank">
+  <a href="https://www.linkedin.com/in/mdakader/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/mdakader" target="_blank">
+  <a href="https://github.com/mdakader">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://profiles.wordpress.org/babuwpd/" target="_blank">
+  <a href="https://profiles.wordpress.org/babuwpd/">
     <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
 </div>
