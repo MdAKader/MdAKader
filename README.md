@@ -22,7 +22,9 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
     <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
 </div>
+<br/>
 
+![](https://komarev.com/ghpvc/?username=mdakader&color=blue)
 <!-- 
 
 [![Md Abdul Kader's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdakader)](https://github.com/mdakader/github-readme-stats)
@@ -30,4 +32,5 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakader&hide_progress=true)](https://github.com/mdakader/github-readme-stats)
  -->
 
-![](https://komarev.com/ghpvc/?username=mdakader&color=blue)
+
+
