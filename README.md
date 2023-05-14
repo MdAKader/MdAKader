@@ -8,7 +8,7 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 ![HPLaptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 </div> -->
 
-
+### Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdakader/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babuwpd@gmail.com)
 [![Wordpress](https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/babuwpd/)
