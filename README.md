@@ -13,7 +13,7 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 [![Wordpress](https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/babuwpd/)
 <br/>
 
-![visitors](https://komarev.com/ghpvc/?username=mdakader&color=blue)
+<!-- ![visitors](https://komarev.com/ghpvc/?username=mdakader&color=blue) -->
 
 
 <!-- 
