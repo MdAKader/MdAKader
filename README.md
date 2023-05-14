@@ -18,7 +18,7 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 ![Git](https://img.shields.io/badge/-Git-6e5494?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-4078c0?style=for-the-badge&logo=github)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![HPLaptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+<!-- ![HPLaptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) -->
 
 
 
