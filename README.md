@@ -1,9 +1,12 @@
 ### Hi there 👋
+
 I'm Md Abdul Kader, a self-motivated and proficient Web developer with experience in designing and developing custom WordPress themes and plugins. passionate about using technology to create engaging and user-friendly websites, ready to learn new skills, and interested in working on challenging projects.
+
 - 🔭 I’m currently working on WordPress.
 - 🌱 I’m currently learning ReactJS
 
 ### Languages and Tools:
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -18,6 +21,9 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Adobe.xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -25,21 +31,16 @@ I'm Md Abdul Kader, a self-motivated and proficient Web developer with experienc
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-4078c0?style=for-the-badge&logo=github) -->
 <!-- ![HPLaptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) -->
 
-
-
 ### Connect with me:
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdakader/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babuwpd@gmail.com)
+
 <!-- [![Wordpress](https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/babuwpd/) -->
 <br/>
 
 <!-- ![visitors](https://komarev.com/ghpvc/?username=mdakader&color=blue) -->
 
-
 <!-- [![Md Abdul Kader's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdakader)](https://github.com/mdakader/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakader&hide_progress=true)](https://github.com/mdakader/github-readme-stats) -->
-
-
-
-
